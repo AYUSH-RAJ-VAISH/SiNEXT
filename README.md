@@ -4,7 +4,7 @@ Main-SIH
 
 
 This project was developed by 6 students
-*Aryan
+*Aryan*
 *Ayush Gupta
 *Shivanshu Bajpai
 *Piyush Kumar
