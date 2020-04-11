@@ -4,12 +4,18 @@ Main-SIH
 
 
 This project was developed by 6 students
+
 *Aryan*
-*Ayush Gupta
-*Shivanshu Bajpai
-*Piyush Kumar
-*Vrati Pandey
-*Aryendra Prakash Singh
+
+*Ayush Gupta*
+
+*Shivanshu Bajpai*
+
+*Piyush Kumar*
+
+*Vrati Pandey*
+
+*Aryendra Prakash Singh*
 
 About Project
 The project is based on the hand recoganization primarly devloped for HANDICAP PEOPLE 
