@@ -95,7 +95,7 @@ h1 .subtext {
   right:0;
   padding-bottom: 20px;
   border-left: 5px solid black;
-  background: white;
+  background: solid blue;
 }
 
 /* If you want the content centered horizontally and vertically */
